@@ -11,9 +11,11 @@ https://github.com/user-attachments/assets/19ff746f-1c45-4a64-815e-c65354fb6417
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Model Training](#model-training)
-- [Evaluation Metrics](#evaluation-metrics)
 - [Future Improvements](#future-improvements)
+- [Evaluation Metrics](#evaluation-metrics)
+- [Model Training](#model-training)
+
+
 
 ## Introduction
 Facial recognition technology is widely used in various applications, from security systems to personalized user experiences. Drishti implements a Siamese network, which is particularly effective in comparing and verifying facial images by measuring their similarity.
