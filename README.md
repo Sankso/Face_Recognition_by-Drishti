@@ -1,10 +1,11 @@
 # Drishti - Facial Recognition Project
+Drishti is an advanced facial recognition project developed using a Siamese model. The project aims to accurately identify and verify individuals based on their unique facial features, leveraging deep learning techniques to enhance recognition performance.
 
-Drishti is an advanced facial recognition project developed using a Siamese model. The project aims to accurately identify and verify individuals b
+### Positive example-
+https://github.com/user-attachments/assets/f4f30009-b22f-4bb4-9a98-6ddcc48501b5
 
-
-
-ased on their unique facial features, leveraging deep learning techniques to enhance recognition performance.
+### Negative example-
+https://github.com/user-attachments/assets/19ff746f-1c45-4a64-815e-c65354fb6417
 
 ## Table of Contents
 - [Introduction](#introduction)
